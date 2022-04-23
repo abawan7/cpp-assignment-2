@@ -1,1 +1,2 @@
-# cpp-assignment-2-atm
+# cpp-assignment-2
+ATM
